@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LunaB's Biosystems Engineering"
+title                    : "LunaBE"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "LunaB's Biosystems Engineering"
 name                     : "LunaB"
 description              : "An amazing website."
 url                      : "https://lunab.github.io"
