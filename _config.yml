@@ -24,7 +24,7 @@ description              : "An amazing website."
 url                      : "https://lunab.github.io"
 baseurl                  : "" #"/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "https://learningspoons.com/wp-content/uploads/2018/07/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-min.jpg"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
