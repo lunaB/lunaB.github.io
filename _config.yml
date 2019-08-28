@@ -26,7 +26,7 @@ baseurl                  : "" #"/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : ""# overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "LunaB"
   avatar           : "https://avatars1.githubusercontent.com/u/23505078"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "세종대학교 생명시스템학부 19학번"
+  bio              : "세종대학교 생명시스템학부"
   location         : "Seoul, South Korea"
   email            : 
   links:
